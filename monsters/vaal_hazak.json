@@ -1,0 +1,26 @@
+{
+	"name":"Vaal Hazak",
+	"type":"vaal_hazak",
+	"elements":["poison"],
+	"specie":"Elder Dragon",
+	"baseHP": 4700,
+	"captureHP": null,
+	"roarLevel":"strong",
+	"habitats":[
+		"Rotten Vale"
+		],
+	"weakness":[
+		{"type": "fire", "level": 3},
+		{"type": "water", "level": 0},
+		{"type": "thunder", "level": 1},
+		{"type": "ice", "level": 2},
+		{"type": "dragon", "level": 3}
+		],
+	"ailments":[
+		{"type": "poison", "level": 1},
+		{"type": "sleep", "level": 1},
+		{"type": "paralysis", "level": 1},
+		{"type": "blast", "level": 2},
+		{"type": "stun", "level": 2}
+		]
+}

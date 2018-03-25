@@ -1,0 +1,27 @@
+{
+	"name":"Pukei-Pukei",
+	"type":"pukei_pukei",
+	"elements":[],
+	"specie":"Bird Wyvern",
+	"baseHP": 2800,
+	"captureHP": 0.30,
+	"roarLevel":"weak",
+	"habitats":[
+		"Ancient Forest",
+		"Wildspire Waste"
+		],
+	"weakness":[
+		{"type": "fire", "level": 2},
+		{"type": "water", "level": 0},
+		{"type": "thunder", "level": 3},
+		{"type": "ice", "level": 2},
+		{"type": "dragon", "level": 1}
+		],
+	"ailments":[
+		{"type": "poison", "level": 1},
+		{"type": "sleep", "level": 3},
+		{"type": "paralysis", "level": 3},
+		{"type": "blast", "level": 2},
+		{"type": "stun", "level": 2}
+		]
+}

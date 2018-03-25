@@ -1,0 +1,26 @@
+{
+	"name":"Paolumu",
+	"type":"paolumu",
+	"elements":[],
+	"specie":"Flying Wyvern",
+	"baseHP": 2950,
+	"captureHP": 0.30,
+	"roarLevel":"weak",
+	"habitats":[
+		"Coral Highlands"
+		],
+	"weakness":[
+		{"type": "fire", "level": 3},
+		{"type": "water", "level": 0},
+		{"type": "thunder", "level": 2},
+		{"type": "ice", "level": 1},
+		{"type": "dragon", "level": 1}
+		],
+	"ailments":[
+		{"type": "poison", "level": 2},
+		{"type": "sleep", "level": 2},
+		{"type": "paralysis", "level": 2},
+		{"type": "blast", "level": 3},
+		{"type": "stun", "level": 3}
+		]
+}

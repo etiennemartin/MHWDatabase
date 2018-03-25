@@ -1,0 +1,26 @@
+{
+	"name":"Tobi-Kadachi",
+	"type":"tobi_kadachi",
+	"elements":["thunder"],
+	"specie":"Fanged Wyvern",
+	"baseHP": 2900,
+	"captureHP": 0.30,
+	"roarLevel":"weak",
+	"habitats":[
+		"Ancient Forest"
+		],
+	"weakness":[
+		{"type": "fire", "level": 2},
+		{"type": "water", "level": 3},
+		{"type": "thunder", "level": 0},
+		{"type": "ice", "level": 2},
+		{"type": "dragon", "level": 1}
+		],
+	"ailments":[
+		{"type": "poison", "level": 3},
+		{"type": "sleep", "level": 2},
+		{"type": "paralysis", "level": 2},
+		{"type": "blast", "level": 2},
+		{"type": "stun", "level": 2}
+		]
+}

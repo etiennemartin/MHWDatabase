@@ -1,0 +1,27 @@
+{
+	"name":"Pink Rathian",
+	"type":"pink_rathian",
+	"elements":["fire"],
+	"specie":"Flying Wyvern",
+	"baseHP": 3000,
+	"captureHP": 0.30,
+	"roarLevel":"weak",
+	"habitats":[
+		"Wildspire Waste",
+		"Coral Highlands"
+		],
+	"weakness":[
+		{"type": "fire", "level": 0},
+		{"type": "water", "level": 1},
+		{"type": "thunder", "level": 2},
+		{"type": "ice", "level": 1},
+		{"type": "dragon", "level": 3}
+		],
+	"ailments":[
+		{"type": "poison", "level": 1},
+		{"type": "sleep", "level": 2},
+		{"type": "paralysis", "level": 2},
+		{"type": "blast", "level": 1},
+		{"type": "stun", "level": 3}
+		]
+}

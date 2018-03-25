@@ -1,0 +1,26 @@
+{
+	"name":"Uragaan",
+	"type":"uragaan",
+	"elements":["fire"],
+	"specie":"Brute Wyvern",
+	"baseHP": 4300,
+	"captureHP": 0.30,
+	"roarLevel":"weak",
+	"habitats":[
+		"Elder's Recess"
+		],
+	"weakness":[
+		{"type": "fire", "level": 0},
+		{"type": "water", "level": 3},
+		{"type": "thunder", "level": 1},
+		{"type": "ice", "level": 2},
+		{"type": "dragon", "level": 2}
+		],
+	"ailments":[
+		{"type": "poison", "level": 3},
+		{"type": "sleep", "level": 1},
+		{"type": "paralysis", "level": 2},
+		{"type": "blast", "level": 2},
+		{"type": "stun", "level": 3}
+		]
+}

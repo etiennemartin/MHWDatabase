@@ -1,0 +1,26 @@
+{
+	"name":"Radobaan",
+	"type":"radobaan",
+	"elements":[],
+	"specie":"Brute Wyvern",
+	"baseHP": 3000,
+	"captureHP": 0.30,
+	"roarLevel":"weak",
+	"habitats":[
+		"Rotten Vale"
+		],
+	"weakness":[
+		{"type": "fire", "level": 1},
+		{"type": "water", "level": 1},
+		{"type": "thunder", "level": 1},
+		{"type": "ice", "level": 2},
+		{"type": "dragon", "level": 3}
+		],
+	"ailments":[
+		{"type": "poison", "level": 2},
+		{"type": "sleep", "level": 1},
+		{"type": "paralysis", "level": 2},
+		{"type": "blast", "level": 3},
+		{"type": "stun", "level": 2}
+		]
+}

@@ -1,0 +1,26 @@
+{
+	"name":"Xeno'jiiva",
+	"type":"xenojiiva",
+	"elements":["dragon"],
+	"specie":"Elder Dragon",
+	"baseHP": 7500,
+	"captureHP": null,
+	"roarLevel":"strong",
+	"habitats":[
+		"Confluence of Fates"
+		],
+	"weakness":[
+		{"type": "fire", "level": 2},
+		{"type": "water", "level": 2},
+		{"type": "thunder", "level": 2},
+		{"type": "ice", "level": 2},
+		{"type": "dragon", "level": 2}
+		],
+	"ailments":[
+		{"type": "poison", "level": 3},
+		{"type": "sleep", "level": 0},
+		{"type": "paralysis", "level": 1},
+		{"type": "blast", "level": 2},
+		{"type": "stun", "level": 1}
+		]
+}

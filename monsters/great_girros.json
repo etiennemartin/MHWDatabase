@@ -1,0 +1,26 @@
+{
+	"name":"Great Girros",
+	"type":"great_girros",
+	"elements":[],
+	"specie":"Fanged Wyvern",
+	"baseHP": 2400,
+	"captureHP": 0.30,
+	"roarLevel":"none",
+	"habitats":[
+		"Rotten Vale"
+		],
+	"weakness":[
+		{"type": "fire", "level": 2},
+		{"type": "water", "level": 3},
+		{"type": "thunder", "level": 0},
+		{"type": "ice", "level": 2},
+		{"type": "dragon", "level": 1}
+		],
+	"ailments":[
+		{"type": "poison", "level": 2},
+		{"type": "sleep", "level": 3},
+		{"type": "paralysis", "level": 1},
+		{"type": "blast", "level": 2},
+		{"type": "stun", "level": 2}
+		]
+}

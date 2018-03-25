@@ -1,0 +1,26 @@
+{
+	"name":"Tzitzi-Ya-Ku",
+	"type":"tzitzi_ya_ku",
+	"elements":[],
+	"specie":"Bird Wyvern",
+	"baseHP": 2650,
+	"captureHP": 0.30,
+	"roarLevel":"none",
+	"habitats":[
+		"Coral Highlands"
+		],
+	"weakness":[
+		{"type": "fire", "level": 2},
+		{"type": "water", "level": 2},
+		{"type": "thunder", "level": 3},
+		{"type": "ice", "level": 3},
+		{"type": "dragon", "level": 2}
+		],
+	"ailments":[
+		{"type": "poison", "level": 2},
+		{"type": "sleep", "level": 2},
+		{"type": "paralysis", "level": 2},
+		{"type": "blast", "level": 2},
+		{"type": "stun", "level": 2}
+		]
+}

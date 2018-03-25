@@ -1,0 +1,28 @@
+{
+	"name":"Nergigante",
+	"type":"nergigante",
+	"elements":[],
+	"specie":"Elder Dragon",
+	"baseHP": 3520,
+	"captureHP": null,
+	"roarLevel":"strong",
+	"habitats":[
+		"Great Ravine",
+		"Wildspire Waste",
+		"Elder's Recess"
+		],
+	"weakness":[
+		{"type": "fire", "level": 1},
+		{"type": "water", "level": 1},
+		{"type": "thunder", "level": 3},
+		{"type": "ice", "level": 1},
+		{"type": "dragon", "level": 2}
+		],
+	"ailments":[
+		{"type": "poison", "level": 2},
+		{"type": "sleep", "level": 2},
+		{"type": "paralysis", "level": 2},
+		{"type": "blast", "level": 2},
+		{"type": "stun", "level": 2}
+		]
+}

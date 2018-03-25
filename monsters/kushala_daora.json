@@ -1,0 +1,27 @@
+{
+	"name":"Kushala Daora",
+	"type":"kushala_daora",
+	"elements":["ice", "dragon"],
+	"specie":"Elder Dragon",
+	"baseHP": 3980,
+	"captureHP": null,
+	"roarLevel":"strong",
+	"habitats":[
+		"Ancient Forest",
+		"Elder's Recess"
+		],
+	"weakness":[
+		{"type": "fire", "level": 1},
+		{"type": "water", "level": 0},
+		{"type": "thunder", "level": 3},
+		{"type": "ice", "level": 0},
+		{"type": "dragon", "level": 2}
+		],
+	"ailments":[
+		{"type": "poison", "level": 3},
+		{"type": "sleep", "level": 1},
+		{"type": "paralysis", "level": 1},
+		{"type": "blast", "level": 3},
+		{"type": "stun", "level": 2}
+		]
+}

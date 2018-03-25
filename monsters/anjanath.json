@@ -1,0 +1,27 @@
+{
+	"name":"Anjanath",
+	"type":"anjanath",
+	"elements":["fire"],
+	"specie":"Brute Wyvern",
+	"baseHP": 2990,
+	"captureHP": 0.30,
+	"roarLevel":"weak",
+	"habitats":[
+		"Ancient Forest",
+		"Wildspire Waste"
+		],
+	"weakness":[
+		{"type": "fire", "level": 0},
+		{"type": "water", "level": 3},
+		{"type": "thunder", "level": 2},
+		{"type": "ice", "level": 2},
+		{"type": "dragon", "level": 1}
+		],
+	"ailments":[
+		{"type": "poison", "level": 2},
+		{"type": "sleep", "level": 2},
+		{"type": "paralysis", "level": 2},
+		{"type": "blast", "level": 1},
+		{"type": "stun", "level": 2}
+		]
+}

@@ -1,0 +1,29 @@
+{
+	"name":"Deviljho",
+	"type":"deviljho",
+	"elements":["dragon"],
+	"specie":"Brute Wyvern",
+	"baseHP": 0,
+	"captureHP": 0.30,
+	"roarLevel":"weak",
+	"habitats":[
+		"Ancient Forest",
+		"Wildspire Waste",
+		"Rotten Vale",
+		"Elder's Recess",
+		],
+	"weakness":[
+		{"type": "fire", "level": 2},
+		{"type": "water", "level": 2},
+		{"type": "thunder", "level": 3},
+		{"type": "ice", "level": 1},
+		{"type": "dragon", "level": 3}
+		],
+	"ailments":[
+		{"type": "poison", "level": 2},
+		{"type": "sleep", "level": 2},
+		{"type": "paralysis", "level": 2},
+		{"type": "blast", "level": 2},
+		{"type": "stun", "level": 2}
+		]
+}

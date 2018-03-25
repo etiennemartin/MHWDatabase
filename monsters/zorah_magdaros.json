@@ -1,0 +1,26 @@
+{
+	"name":"Zorah Magdaros",
+	"type":"zorah_magdaros",
+	"elements":["fire"],
+	"specie":"Elder Dragon",
+	"baseHP": 12000,
+	"captureHP": null,
+	"roarLevel":"none",
+	"habitats":[
+		"Great Ravine"
+		],
+	"weakness":[
+		{"type": "fire", "level": 0},
+		{"type": "water", "level": 3},
+		{"type": "thunder", "level": 1},
+		{"type": "ice", "level": 2},
+		{"type": "dragon", "level": 3}
+		],
+	"ailments":[
+		{"type": "poison", "level": 0},
+		{"type": "sleep", "level": 0},
+		{"type": "paralysis", "level": 0},
+		{"type": "blast", "level": 0},
+		{"type": "stun", "level": 0}
+		]
+}

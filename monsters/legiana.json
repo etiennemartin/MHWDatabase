@@ -1,0 +1,26 @@
+{
+	"name":"Legiana",
+	"type":"legiana",
+	"elements":["ice"],
+	"specie":"Flying Wyvern",
+	"baseHP": 3000,
+	"captureHP": 0.30,
+	"roarLevel":"strong",
+	"habitats":[
+		"Coral Highlands"
+		],
+	"weakness":[
+		{"type": "fire", "level": 2},
+		{"type": "water", "level": 1},
+		{"type": "thunder", "level": 3},
+		{"type": "ice", "level": 0},
+		{"type": "dragon", "level": 1}
+		],
+	"ailments":[
+		{"type": "poison", "level": 3},
+		{"type": "sleep", "level": 2},
+		{"type": "paralysis", "level": 2},
+		{"type": "blast", "level": 2},
+		{"type": "stun", "level": 2}
+		]
+}

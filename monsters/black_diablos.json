@@ -1,0 +1,26 @@
+{
+	"name":"Black Diablos",
+	"type":"black_diablos",
+	"elements":[],
+	"specie":"Flying Wyvern",
+	"baseHP": 3450,
+	"captureHP": 0.30,
+	"roarLevel":"strong",
+	"habitats":[
+		"Wildspire Waste"
+		],
+	"weakness":[
+		{"type": "fire", "level": 0},
+		{"type": "water", "level": 2},
+		{"type": "thunder", "level": 1},
+		{"type": "ice", "level": 3},
+		{"type": "dragon", "level": 0}
+		],
+	"ailments":[
+		{"type": "poison", "level": 2},
+		{"type": "sleep", "level": 2},
+		{"type": "paralysis", "level": 3},
+		{"type": "blast", "level": 2},
+		{"type": "stun", "level": 1}
+		]	
+}

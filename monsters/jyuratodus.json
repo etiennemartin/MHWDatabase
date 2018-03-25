@@ -1,0 +1,26 @@
+{
+	"name":"Jyuratodus",
+	"type":"jyuratodus",
+	"elements":[],
+	"specie":"Piscine Wyvern",
+	"baseHP": 2800,
+	"captureHP": 0.30,
+	"roarLevel":"none",
+	"habitats":[
+		"Wildspire Waste"
+		],
+	"weakness":[
+		{"type": "fire", "level": 1},
+		{"type": "water", "level": 3},
+		{"type": "thunder", "level": 3},
+		{"type": "ice", "level": 1},
+		{"type": "dragon", "level": 1}
+		],
+	"ailments":[
+		{"type": "poison", "level": 2},
+		{"type": "sleep", "level": 1},
+		{"type": "paralysis", "level": 2},
+		{"type": "blast", "level": 1},
+		{"type": "stun", "level": 3}
+		]
+}
